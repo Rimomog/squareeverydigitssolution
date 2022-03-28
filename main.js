@@ -3,4 +3,4 @@ function squareDigits(num){
     return Number(arr.join(''))
   }
 
-console.log(squareDigits(9119));
+console.log(squareDigits(9119)); // 911191
